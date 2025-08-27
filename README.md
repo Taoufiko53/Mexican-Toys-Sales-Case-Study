@@ -1,4 +1,4 @@
-# 🧸 Mexican Toys Sales Dashboard (Power BI)
+#  Mexican Toys Sales Dashboard (Power BI)
 
 ##  Case Overview
 This project analyzes sales and profitability for a Mexican toy retail chain.  
@@ -39,7 +39,7 @@ The goal was to create an interactive Power BI dashboard to provide insights int
 ---
 
 ### 4. Sales & Profit Trends Over Time
-- Sales and profit show **consistent seasonal peaks**, especially during holiday months.  
+- Sales and profit show **consistent seasonal peaks**, especially during holiday months (From November to January).  
 - Despite fluctuations, profitability follows an upward trend aligned with sales.  
 
  *Holiday seasons are critical sales drivers, suggesting that promotions and stock planning should focus on these periods.*
@@ -58,10 +58,8 @@ The goal was to create an interactive Power BI dashboard to provide insights int
 ---
 
 ##  Dashboard Preview
- Dashboard Screenshot  
-![Dashboard Screenshot](./Dahsboard%20png.png)
-
- [Download the Power BI file](./PowerBI/MexicanToysSales.pbix)
+  
+![Dashboard Screenshot](./Dashboard%20Mexican%20Toys.png)
 
 ---
 
@@ -72,9 +70,9 @@ The goal was to create an interactive Power BI dashboard to provide insights int
 ---
 
 ##  Author
-**Your Name**  
+**Taoufik Oulahcen**  
  Data Analyst | Power BI | SQL | Excel  
- Your Country  
+ Morocco 
 
 ## 🔗 Data Source
-[Mexican Toys Dataset - Maven Analytics](https://www.mavenanalytics.io/data-playground)
+[Data source](https://www.mavenanalytics.io/data-playground/mexico-toy-sales?page=2)
